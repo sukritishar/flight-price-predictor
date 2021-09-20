@@ -84,10 +84,8 @@ def main():
     else:
         st.subheader("--About Me--")
         st.write(''' ''')
-        st.write(''' ***Built by MANISH SHARMA*** ''')
-        st.write(''' ***Insta*** : https://www.instagram.com/data_quest_ ''')
-        st.write(''' ***Linkedin*** : https://www.linkedin.com/in/manish-sharma-355ba3189/ ''')
-        st.write(''' ***Github*** : https://github.com/MANISH007700 ''')
+        st.write(''' ***Built by SUKRITI SHARMA*** ''')
+        
        
 if __name__ == "__main__":
     main()
